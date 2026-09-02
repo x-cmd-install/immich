@@ -1,0 +1,74 @@
+about:
+  description: High performance self-hosted photo and video management solution.
+  license: AGPL-3.0
+  homepage: https://immich.app
+  head: 1c7f9a4
+  archived: false
+  latestVersion: v3.2.0-rc.2
+  collectedAt: 2026-09-02T04:59:05Z
+timeline:
+  created: 2022-02-03
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-31
+popularity:
+  star: 113211
+  watcher: 356
+  fork: 6797
+  release: 307
+  contributor: 2314
+  pullRequest: 2301
+  issue: 9233
+language:
+  TypeScript: 5822289
+  Dart: 3169871
+  Svelte: 1419014
+  Python: 178985
+  Kotlin: 155214
+  Swift: 121273
+  JavaScript: 18245
+  Shell: 17608
+  Ruby: 15773
+  Dockerfile: 12696
+  C++: 10903
+  C: 9037
+  Java: 6867
+  HCL: 5257
+  HTML: 4941
+  CSS: 4318
+  CMake: 284
+  Go Template: 207
+  Objective-C: 38
+totalLine: 10972820
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 2
+    mergedPR: 196
+    openPR: 67
+    closedIssue: 121
+    openIssue: 63
+    commit: 298
+  last90d:
+    since: 2026-06-04
+    release: 11
+    mergedPR: 718
+    openPR: 148
+    closedIssue: 516
+    openIssue: 178
+    commit: 1325
+  last180d:
+    since: 2026-03-06
+    release: 20
+    mergedPR: 1382
+    openPR: 196
+    closedIssue: 979
+    openIssue: 244
+    commit: 2265
+  last360d:
+    since: 2025-09-07
+    release: 42
+    mergedPR: 2842
+    openPR: 210
+    closedIssue: 2365
+    openIssue: 386
+    commit: 5104
