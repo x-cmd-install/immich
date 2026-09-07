@@ -2,26 +2,26 @@ about:
   description: "High performance self-hosted photo and video management solution."
   license: AGPL-3.0
   homepage: https://immich.app
-  head: 4c7b30c
+  head: 58fb1ed
   archived: false
   latestVersion: "v3.2.0-rc.3"
-  collectedAt: 2026-09-07T04:30:40Z
+  collectedAt: 2026-09-07T19:55:41Z
 timeline:
   created: 2022-02-03
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 113552
-  watcher: 356
+  star: 113598
+  watcher: 357
   fork: 6829
   release: 308
-  contributor: 2317
-  pullRequest: 12518
-  issue: 9258
+  contributor: 2319
+  pullRequest: 12520
+  issue: 9261
 language:
-  TypeScript: 5830452
+  TypeScript: 5830911
   Dart: 3196427
-  Svelte: 1419129
+  Svelte: 1419130
   Python: 178828
   Kotlin: 155214
   Swift: 121273
@@ -38,66 +38,66 @@ language:
   CMake: 284
   Go Template: 207
   Objective-C: 38
-totalBytes: 11007665
+totalBytes: 11008125
 recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 198
+    mergedPR: 200
     openPR: 72
-    closedIssue: 112
-    openIssue: 63
-    commit: 268
+    closedIssue: 114
+    openIssue: 64
+    commit: 270
   last60d:
     since: 2026-07-09
     release: 6
-    mergedPR: 428
+    mergedPR: 430
     openPR: 120
-    closedIssue: 310
-    openIssue: 131
-    commit: 651
+    closedIssue: 312
+    openIssue: 132
+    commit: 653
   last90d:
     since: 2026-06-09
     release: 12
-    mergedPR: 703
+    mergedPR: 705
     openPR: 152
-    closedIssue: 515
-    openIssue: 177
-    commit: 1118
+    closedIssue: 517
+    openIssue: 178
+    commit: 1120
   last180d:
     since: 2026-03-11
     release: 21
-    mergedPR: 1376
+    mergedPR: 1378
     openPR: 202
-    closedIssue: 976
-    openIssue: 248
-    commit: 2229
+    closedIssue: 978
+    openIssue: 249
+    commit: 2231
   last360d:
     since: 2025-09-12
     release: 42
-    mergedPR: 2792
+    mergedPR: 2794
     openPR: 218
-    closedIssue: 2344
+    closedIssue: 2347
     openIssue: 387
-    commit: 4947
+    commit: 4949
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 5578
+    mergedPR: 5580
     openPR: 220
-    closedIssue: 5064
+    closedIssue: 5067
     openIssue: 470
-    commit: 5671
+    commit: 5673
 total:
   release: 308
-  mergedPR: 10199
+  mergedPR: 10201
   openPR: 220
-  closedIssue: 8766
+  closedIssue: 8769
   openIssue: 492
-  commit: 10947
+  commit: 10949
 ---
 path: /home/runner/.x-repo/github.com/immich-app/immich
-collectedAt: 2026-09-07T04:31:09Z
+collectedAt: 2026-09-07T19:56:28Z
 loc:
   Json:
     code: 195532
@@ -105,9 +105,9 @@ loc:
     blanks: 0
     files: 162
   TypeScript:
-    code: 139146
+    code: 139156
     comments: 4498
-    blanks: 20348
+    blanks: 20350
     files: 1057
   Dart:
     code: 75682
@@ -125,7 +125,7 @@ loc:
     blanks: 1367
     files: 417
   Sql:
-    code: 8618
+    code: 8617
     comments: 420
     blanks: 384
     files: 36
@@ -245,15 +245,15 @@ loc:
     blanks: 6
     files: 83
 total:
-  code: 495297
+  code: 495306
   comments: 16932
-  blanks: 48125
+  blanks: 48127
   files: 2957
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:31:11+00:00
+  collectedAt: 2026-09-07T19:56:37+00:00
   platform:
     darwin/arm64:
       name:  app-arm64-v8a-release.apk
