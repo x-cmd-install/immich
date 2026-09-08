@@ -5,18 +5,18 @@ about:
   head: 58fb1ed
   archived: false
   latestVersion: "v3.2.0-rc.3"
-  collectedAt: 2026-09-08T01:42:55Z
+  collectedAt: 2026-09-08T04:40:08Z
 timeline:
   created: 2022-02-03
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 113612
-  watcher: 357
-  fork: 6831
+  star: 113614
+  watcher: 356
+  fork: 6830
   release: 308
   contributor: 2319
-  pullRequest: 12523
+  pullRequest: 12525
   issue: 9263
 language:
   TypeScript: 5830911
@@ -44,7 +44,7 @@ recent:
     since: 2026-08-09
     release: 3
     mergedPR: 187
-    openPR: 74
+    openPR: 76
     closedIssue: 111
     openIssue: 64
     commit: 270
@@ -52,7 +52,7 @@ recent:
     since: 2026-07-10
     release: 5
     mergedPR: 424
-    openPR: 120
+    openPR: 122
     closedIssue: 297
     openIssue: 131
     commit: 653
@@ -60,7 +60,7 @@ recent:
     since: 2026-06-10
     release: 12
     mergedPR: 698
-    openPR: 152
+    openPR: 154
     closedIssue: 511
     openIssue: 179
     commit: 1120
@@ -68,7 +68,7 @@ recent:
     since: 2026-03-12
     release: 21
     mergedPR: 1369
-    openPR: 204
+    openPR: 206
     closedIssue: 976
     openIssue: 251
     commit: 2231
@@ -76,7 +76,7 @@ recent:
     since: 2025-09-13
     release: 41
     mergedPR: 2789
-    openPR: 220
+    openPR: 222
     closedIssue: 2321
     openIssue: 388
     commit: 4949
@@ -84,20 +84,20 @@ recent:
     since: 2024-09-18
     release: 100
     mergedPR: 5575
-    openPR: 222
+    openPR: 224
     closedIssue: 5061
     openIssue: 472
     commit: 5665
 total:
   release: 308
   mergedPR: 10201
-  openPR: 222
+  openPR: 224
   closedIssue: 8769
   openIssue: 494
   commit: 10949
 ---
 path: /home/runner/.x-repo/github.com/immich-app/immich
-collectedAt: 2026-09-08T01:43:25Z
+collectedAt: 2026-09-08T04:40:37Z
 loc:
   Json:
     code: 195532
