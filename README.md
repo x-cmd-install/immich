@@ -12,6 +12,18 @@ High performance self-hosted photo and video management solution.
 x install immich
 ```
 
+## Code insight
+
+Total: **473,883** lines of code across **2487** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 195,533 | 0 | 0 | 162 |
+| TypeScript | 139,213 | 4,492 | 20,350 | 1057 |
+| Dart | 74,785 | 2,610 | 12,055 | 832 |
+| Yaml | 22,680 | 264 | 5,407 | 19 |
+| Svelte | 17,339 | 203 | 1,367 | 417 |
+
 ## Source
 
 - **Upstream**: <https://github.com/immich-app/immich>
@@ -23,6 +35,25 @@ x install immich
 - **Latest**: `v3.2.0` (2026-09-10)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 10
+
+## Popularity
+
+- **Stars**: 113,767 · **Forks**: 6,861 · **Open issues**: 9,285 · **Contributors**: 2,319
+
+## Totals (cumulative)
+
+- **Releases**: 309 · **Merged PRs**: 10225 · **Open PRs**: 239 · **Closed issues**: 8791 · **Open issues**: 494 · **Commits**: 10966
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 4 | 195 | 90 | 115 | 69 | 289 |
+| last60d | 2026-07-12 | 6 | 444 | 135 | 297 | 133 | 672 |
+| 90d | 2026-06-12 | 13 | 689 | 167 | 522 | 180 | 1139 |
+| last180d | 2026-03-14 | 22 | 1382 | 221 | 989 | 251 | 2250 |
+| 360d | 2025-09-15 | 42 | 2791 | 237 | 2302 | 382 | 4968 |
+| last720d | 2024-09-20 | 100 | 5588 | 239 | 5068 | 472 | 5672 |
 
 ## Release assets
 
@@ -39,33 +70,13 @@ x install immich
 | [hwaccel.transcoding.yml](https://github.com/immich-app/immich/releases/download/v3.2.0/hwaccel.transcoding.yml) | 1.6 KiB | `other` |
 | [prometheus.yml](https://github.com/immich-app/immich/releases/download/v3.2.0/prometheus.yml) | 260 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 113,751 · **Forks**: 6,859 · **Open issues**: 9,281 · **Contributors**: 2,319
+Reported by **12** distros on [repology.org](https://repology.org/project/immich). **6** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 309 · **Merged PRs**: 10225 · **Open PRs**: 238 · **Closed issues**: 8789 · **Open issues**: 492 · **Commits**: 10966
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 195 | 89 | 113 | 67 | 289 |
-| 90d | 2026-06-12 | 13 | 689 | 166 | 520 | 178 | 1139 |
-| 360d | 2025-09-15 | 42 | 2791 | 236 | 2300 | 380 | 4968 |
-
-## Code size
-
-Total: **473,883** lines of code across **2487** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 195,533 | 0 | 0 | 162 |
-| TypeScript | 139,213 | 4,492 | 20,350 | 1057 |
-| Dart | 74,785 | 2,610 | 12,055 | 832 |
-| Yaml | 22,680 | 264 | 5,407 | 19 |
-| Svelte | 17,339 | 203 | 1,367 | 417 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `3.1.0` | ✅ latest |
 
 ## Improve this data
 
@@ -76,4 +87,4 @@ Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:38Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:05:24Z._
