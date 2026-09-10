@@ -1,0 +1,154 @@
+- repo: nix_stable_26_05
+  srcname: immich
+  visiblename: immich
+  version: 2.7.5
+  origversion: null
+  status: outdated
+  summary: Self-hosted photo and video backup solution
+  maintainers:
+    - nix@dotlambda.de
+    - supermanitu@gmail.com
+    - contact@scrumplex.net
+    - titaniumtown@proton.me
+  licenses:
+    - AGPL-3.0-only
+    - CC-BY-4.0
+- repo: aur
+  srcname: immich
+  binname: immich-server
+  visiblename: immich-server
+  version: 3.1.0
+  origversion: 3.1.0-1
+  status: newest
+  summary: Self-hosted photos and videos backup tool (server and web client)
+  maintainers:
+    - aliu@aur
+  licenses:
+    - AGPL-3.0-only
+- repo: aur
+  srcname: immich
+  binname: immich-cli
+  visiblename: immich-cli
+  version: 3.1.0
+  origversion: 3.1.0-1
+  status: newest
+  summary: Self-hosted photos and videos backup tool (command-line client)
+  maintainers:
+    - aliu@aur
+  licenses:
+    - AGPL-3.0-only
+- repo: fdroid
+  srcname: app.alextran.immich
+  binname: app.alextran.immich
+  visiblename: Immich
+  version: 3.1.0
+  origversion: null
+  status: newest
+  summary: This is a client app for the self-hostable Immich Server
+  licenses:
+    - AGPL-3.0-only
+  categories:
+    - Cloud Storage & File Sync
+- repo: fdroid
+  srcname: app.alextran.immich
+  binname: app.alextran.immich
+  visiblename: Immich
+  version: 3.0.3
+  origversion: null
+  status: legacy
+  summary: This is a client app for the self-hostable Immich Server
+  licenses:
+    - AGPL-3.0-only
+  categories:
+    - Cloud Storage & File Sync
+- repo: fdroid
+  srcname: app.alextran.immich
+  binname: app.alextran.immich
+  visiblename: Immich
+  version: 3.0.2
+  origversion: null
+  status: legacy
+  summary: This is a client app for the self-hostable Immich Server
+  licenses:
+    - AGPL-3.0-only
+  categories:
+    - Cloud Storage & File Sync
+- repo: freebsd
+  srcname: www/immich
+  binname: immich
+  visiblename: www/immich
+  version: 3.1.0
+  origversion: 3.1.0_1
+  status: newest
+  summary: High performance self-hosted photo and video management solution
+  maintainers:
+    - joneum@freebsd.org
+  categories:
+    - www
+- repo: nix_stable_24_11
+  srcname: immich
+  visiblename: immich
+  version: 1.131.3
+  origversion: null
+  status: outdated
+  summary: Self-hosted photo and video backup solution
+  maintainers:
+    - rschuetz17@gmail.com
+    - supermanitu@gmail.com
+    - contact@scrumplex.net
+    - titaniumtown@proton.me
+  licenses:
+    - AGPL-3.0-only
+    - CC-BY-4.0
+- repo: nix_stable_25_05
+  srcname: immich
+  visiblename: immich
+  version: 2.3.1
+  origversion: null
+  status: outdated
+  summary: Self-hosted photo and video backup solution
+  maintainers:
+    - rschuetz17@gmail.com
+    - supermanitu@gmail.com
+    - contact@scrumplex.net
+    - titaniumtown@proton.me
+  licenses:
+    - AGPL-3.0-only
+    - CC-BY-4.0
+- repo: nix_stable_25_11
+  srcname: immich
+  visiblename: immich
+  version: 2.7.5
+  origversion: null
+  status: outdated
+  summary: Self-hosted photo and video backup solution
+  maintainers:
+    - rschuetz17@gmail.com
+    - supermanitu@gmail.com
+    - contact@scrumplex.net
+    - titaniumtown@proton.me
+  licenses:
+    - AGPL-3.0-only
+    - CC-BY-4.0
+- repo: nix_unstable
+  srcname: immich
+  visiblename: immich
+  version: 3.1.0
+  origversion: null
+  status: newest
+  summary: Self-hosted photo and video backup solution
+  maintainers:
+    - nix@dotlambda.de
+    - supermanitu@gmail.com
+    - contact@scrumplex.net
+    - titaniumtown@proton.me
+  licenses:
+    - AGPL-3.0-only
+    - CC-BY-4.0
+- repo: wikidata
+  srcname: Q127016931
+  visiblename: Immich
+  version: 3.1.0
+  origversion: null
+  status: newest
+  summary: self-hosted photo and video management software

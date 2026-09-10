@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.2.0"
   latestRelease: "v3.2.0"
   latestPrerelease: "v3.2.0-rc.3"
-  collectedAt: 2026-09-10T16:34:49Z
+  collectedAt: 2026-09-10T21:04:44Z
 timeline:
   created: 2022-02-03
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 2026-09-04
 popularity:
-  star: 113751
+  star: 113767
   watcher: 354
-  fork: 6859
+  fork: 6861
   release: 309
   contributor: 2319
-  pullRequest: 12576
-  issue: 9281
+  pullRequest: 12577
+  issue: 9285
 language:
   TypeScript: 5844183
   Dart: 3159598
@@ -48,60 +48,60 @@ recent:
     since: 2026-08-11
     release: 4
     mergedPR: 195
-    openPR: 89
-    closedIssue: 113
-    openIssue: 67
+    openPR: 90
+    closedIssue: 115
+    openIssue: 69
     commit: 289
   last60d:
     since: 2026-07-12
     release: 6
     mergedPR: 444
-    openPR: 134
-    closedIssue: 295
-    openIssue: 131
+    openPR: 135
+    closedIssue: 297
+    openIssue: 133
     commit: 672
   last90d:
     since: 2026-06-12
     release: 13
     mergedPR: 689
-    openPR: 166
-    closedIssue: 520
-    openIssue: 178
+    openPR: 167
+    closedIssue: 522
+    openIssue: 180
     commit: 1139
   last180d:
     since: 2026-03-14
     release: 22
     mergedPR: 1382
-    openPR: 220
-    closedIssue: 987
-    openIssue: 249
+    openPR: 221
+    closedIssue: 989
+    openIssue: 251
     commit: 2250
   last360d:
     since: 2025-09-15
     release: 42
     mergedPR: 2791
-    openPR: 236
-    closedIssue: 2300
-    openIssue: 380
+    openPR: 237
+    closedIssue: 2302
+    openIssue: 382
     commit: 4968
   last720d:
     since: 2024-09-20
     release: 100
     mergedPR: 5588
-    openPR: 238
-    closedIssue: 5066
-    openIssue: 470
+    openPR: 239
+    closedIssue: 5068
+    openIssue: 472
     commit: 5672
 total:
   release: 309
   mergedPR: 10225
-  openPR: 238
-  closedIssue: 8789
-  openIssue: 492
+  openPR: 239
+  closedIssue: 8791
+  openIssue: 494
   commit: 10966
 ---
 path: /home/runner/.x-repo/github.com/immich-app/immich
-collectedAt: 2026-09-10T16:35:29Z
+collectedAt: 2026-09-10T21:05:14Z
 loc:
   Json:
     code: 195533
