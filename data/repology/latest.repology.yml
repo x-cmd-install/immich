@@ -1,25 +1,10 @@
-- repo: nix_stable_26_05
-  srcname: immich
-  visiblename: immich
-  version: 2.7.5
-  origversion: null
-  status: outdated
-  summary: Self-hosted photo and video backup solution
-  maintainers:
-    - nix@dotlambda.de
-    - supermanitu@gmail.com
-    - contact@scrumplex.net
-    - titaniumtown@proton.me
-  licenses:
-    - AGPL-3.0-only
-    - CC-BY-4.0
 - repo: aur
   srcname: immich
   binname: immich-server
   visiblename: immich-server
   version: 3.1.0
   origversion: 3.1.0-1
-  status: newest
+  status: outdated
   summary: Self-hosted photos and videos backup tool (server and web client)
   maintainers:
     - aliu@aur
@@ -31,7 +16,7 @@
   visiblename: immich-cli
   version: 3.1.0
   origversion: 3.1.0-1
-  status: newest
+  status: outdated
   summary: Self-hosted photos and videos backup tool (command-line client)
   maintainers:
     - aliu@aur
@@ -43,7 +28,7 @@
   visiblename: Immich
   version: 3.1.0
   origversion: null
-  status: newest
+  status: outdated
   summary: This is a client app for the self-hostable Immich Server
   licenses:
     - AGPL-3.0-only
@@ -79,7 +64,7 @@
   visiblename: www/immich
   version: 3.1.0
   origversion: 3.1.0_1
-  status: newest
+  status: outdated
   summary: High performance self-hosted photo and video management solution
   maintainers:
     - joneum@freebsd.org
@@ -130,12 +115,27 @@
   licenses:
     - AGPL-3.0-only
     - CC-BY-4.0
+- repo: nix_stable_26_05
+  srcname: immich
+  visiblename: immich
+  version: 2.7.5
+  origversion: null
+  status: outdated
+  summary: Self-hosted photo and video backup solution
+  maintainers:
+    - nix@dotlambda.de
+    - supermanitu@gmail.com
+    - contact@scrumplex.net
+    - titaniumtown@proton.me
+  licenses:
+    - AGPL-3.0-only
+    - CC-BY-4.0
 - repo: nix_unstable
   srcname: immich
   visiblename: immich
   version: 3.1.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Self-hosted photo and video backup solution
   maintainers:
     - nix@dotlambda.de
@@ -148,7 +148,7 @@
 - repo: wikidata
   srcname: Q127016931
   visiblename: Immich
-  version: 3.1.0
+  version: 3.2.0
   origversion: null
   status: newest
   summary: self-hosted photo and video management software

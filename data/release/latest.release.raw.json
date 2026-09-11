@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 68997685,
       "digest": "sha256:b42f75643f6eaf3cd985d322ef593b16d7702f45ec7e7ec24470f513d5391b50",
-      "download_count": 7370,
+      "download_count": 11078,
       "created_at": "2026-09-09T14:57:54Z",
       "updated_at": "2026-09-09T14:58:00Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.2.0/app-arm64-v8a-release.apk"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 63695977,
       "digest": "sha256:350b03304384813e355ef5b605ac56f2a1d7d5330961733ef71f67389904dff8",
-      "download_count": 46,
+      "download_count": 79,
       "created_at": "2026-09-09T14:57:55Z",
       "updated_at": "2026-09-09T14:58:00Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.2.0/app-armeabi-v7a-release.apk"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 178968901,
       "digest": "sha256:3ff45136cf04d74f8112ff582d438c6af8cdbc27dad1e7e932cda41785c0713d",
-      "download_count": 145,
+      "download_count": 286,
       "created_at": "2026-09-09T14:57:55Z",
       "updated_at": "2026-09-09T14:58:06Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.2.0/app-release.apk"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 71717631,
       "digest": "sha256:edf1c6d13a4deaf42568c1cfda75a9fea116bab4d3129963fb972d24e60aba70",
-      "download_count": 44,
+      "download_count": 75,
       "created_at": "2026-09-09T14:57:55Z",
       "updated_at": "2026-09-09T14:58:00Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.2.0/app-x86_64-release.apk"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3263,
       "digest": "sha256:33d3109617cca8c9356b2693b3238f4610e18415f60bf0129855fbb10d562240",
-      "download_count": 59,
+      "download_count": 131,
       "created_at": "2026-09-09T14:57:54Z",
       "updated_at": "2026-09-09T14:57:54Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.2.0/docker-compose.rootless.yml"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2844,
       "digest": "sha256:fa98c3eb0884b0b88aaee11a9c9acb8cfb17a0f495d12c21358deb6d3e8a546b",
-      "download_count": 2506,
+      "download_count": 5682,
       "created_at": "2026-09-09T14:57:54Z",
       "updated_at": "2026-09-09T14:57:54Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.2.0/docker-compose.yml"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 979,
       "digest": "sha256:dda820cecbcf5fd5d6afecc54107bbd3c973088c631d380dfc83e9f0f2c6b210",
-      "download_count": 1168,
+      "download_count": 2788,
       "created_at": "2026-09-09T14:57:54Z",
       "updated_at": "2026-09-09T14:57:54Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.2.0/example.env"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1421,
       "digest": "sha256:05828be46118e9f79c019c0752489a47fb3381d67ed102212a4f9d9f2575bd3d",
-      "download_count": 201,
+      "download_count": 423,
       "created_at": "2026-09-09T14:57:54Z",
       "updated_at": "2026-09-09T14:57:54Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.2.0/hwaccel.ml.yml"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1679,
       "digest": "sha256:a50d01758fdbd468270ef7104dce6f282e217ef916238098ac94a70ca8e4c326",
-      "download_count": 199,
+      "download_count": 388,
       "created_at": "2026-09-09T14:57:54Z",
       "updated_at": "2026-09-09T14:57:54Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.2.0/hwaccel.transcoding.yml"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 260,
       "digest": "sha256:4e5fe9d3019df2d1cad4c865e87f9037d98e5f0c3bf28cd509f4f86e6829ae93",
-      "download_count": 41,
+      "download_count": 66,
       "created_at": "2026-09-09T14:57:55Z",
       "updated_at": "2026-09-09T14:57:55Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.2.0/prometheus.yml"
@@ -403,15 +403,15 @@
   "discussion_url": "https://github.com/immich-app/immich/discussions/31408",
   "reactions": {
     "url": "https://api.github.com/repos/immich-app/immich/releases/385613902/reactions",
-    "total_count": 217,
-    "+1": 55,
+    "total_count": 315,
+    "+1": 84,
     "-1": 0,
     "laugh": 0,
-    "hooray": 55,
+    "hooray": 79,
     "confused": 0,
-    "heart": 70,
-    "rocket": 28,
-    "eyes": 9
+    "heart": 98,
+    "rocket": 41,
+    "eyes": 13
   },
   "mentions_count": 49
 }
