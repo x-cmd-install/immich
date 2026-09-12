@@ -38,22 +38,22 @@ Total: **474,342** lines of code across **2490** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 113,853 · **Forks**: 6,881 · **Open issues**: 9,302 · **Contributors**: 2,320
+- **Stars**: 113,868 · **Forks**: 6,884 · **Open issues**: 9,304 · **Contributors**: 2,319
 
 ## Totals (cumulative)
 
-- **Releases**: 309 · **Merged PRs**: 10244 · **Open PRs**: 239 · **Closed issues**: 8804 · **Open issues**: 498 · **Commits**: 10979
+- **Releases**: 309 · **Merged PRs**: 10244 · **Open PRs**: 241 · **Closed issues**: 8805 · **Open issues**: 499 · **Commits**: 10979
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 4 | 209 | 90 | 124 | 71 | 302 |
-| last60d | 2026-07-13 | 6 | 451 | 134 | 304 | 135 | 685 |
-| 90d | 2026-06-13 | 13 | 701 | 166 | 530 | 184 | 1152 |
-| last180d | 2026-03-15 | 22 | 1400 | 220 | 997 | 255 | 2263 |
-| 360d | 2025-09-16 | 42 | 2772 | 237 | 2293 | 386 | 4981 |
-| last720d | 2024-09-21 | 100 | 5605 | 239 | 5076 | 476 | 5679 |
+| 30d | 2026-08-13 | 4 | 208 | 91 | 120 | 69 | 302 |
+| last60d | 2026-07-14 | 6 | 436 | 136 | 299 | 136 | 685 |
+| 90d | 2026-06-14 | 13 | 695 | 166 | 531 | 185 | 1152 |
+| last180d | 2026-03-16 | 22 | 1397 | 222 | 995 | 255 | 2262 |
+| 360d | 2025-09-17 | 41 | 2752 | 239 | 2284 | 387 | 4980 |
+| last720d | 2024-09-22 | 100 | 5602 | 241 | 5074 | 477 | 5678 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Total: **474,342** lines of code across **2490** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/immich). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/immich). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:25:26Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:32:54Z._
