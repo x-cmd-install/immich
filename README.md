@@ -14,11 +14,11 @@ x install immich
 
 ## Code insight
 
-Total: **474,349** lines of code across **2490** files in the top 5 languages.
+Total: **474,359** lines of code across **2490** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 195,535 | 0 | 0 | 162 |
+| Json | 195,545 | 0 | 0 | 162 |
 | TypeScript | 139,416 | 4,496 | 20,400 | 1058 |
 | Dart | 75,042 | 2,694 | 12,162 | 834 |
 | Yaml | 22,680 | 264 | 5,407 | 19 |
@@ -38,22 +38,22 @@ Total: **474,349** lines of code across **2490** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 113,947 · **Forks**: 6,895 · **Open issues**: 9,315 · **Contributors**: 2,319
+- **Stars**: 114,075 · **Forks**: 6,905 · **Open issues**: 9,333 · **Contributors**: 2,319
 
 ## Totals (cumulative)
 
-- **Releases**: 309 · **Merged PRs**: 10247 · **Open PRs**: 243 · **Closed issues**: 8809 · **Open issues**: 506 · **Commits**: 10981
+- **Releases**: 309 · **Merged PRs**: 10248 · **Open PRs**: 244 · **Closed issues**: 8823 · **Open issues**: 510 · **Commits**: 10982
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 202 | 89 | 124 | 74 | 238 |
-| last60d | 2026-07-15 | 6 | 425 | 137 | 292 | 138 | 584 |
-| 90d | 2026-06-15 | 13 | 688 | 167 | 525 | 192 | 1049 |
-| last180d | 2026-03-17 | 22 | 1379 | 224 | 991 | 262 | 2114 |
-| 360d | 2025-09-18 | 41 | 2745 | 241 | 2280 | 394 | 4876 |
-| last720d | 2024-09-23 | 100 | 5592 | 243 | 5072 | 484 | 5678 |
+| 30d | 2026-08-15 | 4 | 200 | 89 | 134 | 77 | 239 |
+| last60d | 2026-07-16 | 5 | 423 | 137 | 296 | 141 | 585 |
+| 90d | 2026-06-16 | 12 | 662 | 165 | 534 | 197 | 1050 |
+| last180d | 2026-03-18 | 22 | 1369 | 224 | 1004 | 267 | 2115 |
+| 360d | 2025-09-19 | 41 | 2737 | 242 | 2284 | 398 | 4877 |
+| last720d | 2024-09-24 | 100 | 5585 | 244 | 5075 | 488 | 5666 |
 
 ## Release assets
 
@@ -70,14 +70,6 @@ Total: **474,349** lines of code across **2490** files in the top 5 languages.
 | [hwaccel.transcoding.yml](https://github.com/immich-app/immich/releases/download/v3.2.0/hwaccel.transcoding.yml) | 1.6 KiB | `other` |
 | [prometheus.yml](https://github.com/immich-app/immich/releases/download/v3.2.0/prometheus.yml) | 260 B | `other` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/immich). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `3.1.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `immich` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +79,4 @@ Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:47:21Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:56:18Z._
