@@ -14,13 +14,13 @@ x install immich
 
 ## Code insight
 
-Total: **487,824** lines of code across **2505** files in the top 5 languages.
+Total: **487,853** lines of code across **2505** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 206,544 | 0 | 0 | 165 |
+| Json | 206,546 | 0 | 0 | 165 |
 | TypeScript | 139,818 | 4,537 | 20,460 | 1059 |
-| Dart | 75,978 | 2,743 | 12,357 | 846 |
+| Dart | 76,005 | 2,743 | 12,360 | 846 |
 | Yaml | 23,764 | 264 | 5,640 | 19 |
 | Svelte | 17,308 | 202 | 1,367 | 416 |
 
@@ -33,27 +33,27 @@ Total: **487,824** lines of code across **2505** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.2.2` (2026-09-15)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-21
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 114,689 · **Forks**: 7,011 · **Open issues**: 9,387 · **Contributors**: 2,323
+- **Stars**: 114,775 · **Forks**: 7,028 · **Open issues**: 9,391 · **Contributors**: 2,323
 
 ## Totals (cumulative)
 
-- **Releases**: 311 · **Merged PRs**: 10311 · **Open PRs**: 230 · **Closed issues**: 8885 · **Open issues**: 502 · **Commits**: 11035
+- **Releases**: 311 · **Merged PRs**: 10312 · **Open PRs**: 238 · **Closed issues**: 8889 · **Open issues**: 502 · **Commits**: 11036
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 6 | 215 | 78 | 153 | 68 | 132 |
-| last60d | 2026-07-23 | 7 | 421 | 128 | 305 | 136 | 500 |
-| 90d | 2026-06-23 | 12 | 668 | 153 | 559 | 193 | 1007 |
-| last180d | 2026-03-25 | 21 | 1364 | 207 | 984 | 254 | 2096 |
-| 360d | 2025-09-26 | 41 | 2752 | 226 | 2273 | 389 | 4855 |
-| last720d | 2024-10-01 | 100 | 5588 | 230 | 5089 | 479 | 5666 |
+| 30d | 2026-08-23 | 6 | 212 | 87 | 152 | 67 | 133 |
+| last60d | 2026-07-24 | 7 | 415 | 133 | 306 | 133 | 501 |
+| 90d | 2026-06-24 | 12 | 660 | 160 | 560 | 191 | 1008 |
+| last180d | 2026-03-26 | 21 | 1352 | 215 | 981 | 254 | 2097 |
+| 360d | 2025-09-27 | 41 | 2750 | 234 | 2270 | 389 | 4856 |
+| last720d | 2024-10-02 | 100 | 5576 | 238 | 5089 | 479 | 5647 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:56:11Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:53:07Z._
