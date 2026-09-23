@@ -4,7 +4,7 @@
 
 High performance self-hosted photo and video management solution.
 
-[![x-cmd/install — immich Code Quality Monitoring Repo Card](https://repo.x-cmd.io/immich.svg)](https://x-cmd.com/install/immich)
+[![x-cmd/install — immich Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/immich.svg)](https://x-cmd.com/install/immich)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install immich
 
 ## Code insight
 
-Total: **487,853** lines of code across **2505** files in the top 5 languages.
+Total: **488,481** lines of code across **2504** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 206,546 | 0 | 0 | 165 |
-| TypeScript | 139,818 | 4,537 | 20,460 | 1059 |
-| Dart | 76,005 | 2,743 | 12,360 | 846 |
-| Yaml | 23,764 | 264 | 5,640 | 19 |
-| Svelte | 17,308 | 202 | 1,367 | 416 |
+| Json | 206,564 | 0 | 0 | 165 |
+| TypeScript | 140,580 | 4,544 | 20,597 | 1060 |
+| Dart | 76,019 | 2,770 | 12,365 | 844 |
+| Yaml | 23,565 | 264 | 5,610 | 19 |
+| Svelte | 17,227 | 200 | 1,364 | 416 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **487,853** lines of code across **2505** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.2.2` (2026-09-15)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 114,775 · **Forks**: 7,028 · **Open issues**: 9,391 · **Contributors**: 2,323
+- **Stars**: 114,849 · **Forks**: 7,038 · **Open issues**: 9,399 · **Contributors**: 2,324
 
 ## Totals (cumulative)
 
-- **Releases**: 311 · **Merged PRs**: 10312 · **Open PRs**: 238 · **Closed issues**: 8889 · **Open issues**: 502 · **Commits**: 11036
+- **Releases**: 311 · **Merged PRs**: 10323 · **Open PRs**: 231 · **Closed issues**: 8900 · **Open issues**: 499 · **Commits**: 11047
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 212 | 87 | 152 | 67 | 133 |
-| last60d | 2026-07-24 | 7 | 415 | 133 | 306 | 133 | 501 |
-| 90d | 2026-06-24 | 12 | 660 | 160 | 560 | 191 | 1008 |
-| last180d | 2026-03-26 | 21 | 1352 | 215 | 981 | 254 | 2097 |
-| 360d | 2025-09-27 | 41 | 2750 | 234 | 2270 | 389 | 4856 |
-| last720d | 2024-10-02 | 100 | 5576 | 238 | 5089 | 479 | 5647 |
+| 30d | 2026-08-24 | 6 | 216 | 81 | 154 | 65 | 145 |
+| last60d | 2026-07-25 | 7 | 425 | 124 | 306 | 131 | 513 |
+| 90d | 2026-06-25 | 12 | 663 | 153 | 568 | 188 | 1020 |
+| last180d | 2026-03-27 | 20 | 1354 | 207 | 985 | 251 | 2109 |
+| 360d | 2025-09-28 | 41 | 2757 | 227 | 2279 | 386 | 4868 |
+| last720d | 2024-10-03 | 100 | 5576 | 231 | 5087 | 476 | 5647 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:53:07Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:57:32Z._
