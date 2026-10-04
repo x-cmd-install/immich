@@ -14,7 +14,7 @@ x install immich
 
 ## Code insight
 
-Total: **500,695** lines of code across **2485** files in the top 5 languages.
+Total: **500,739** lines of code across **2485** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **500,695** lines of code across **2485** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.3.0-rc.2` (2026-09-28)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-03
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 115,485 · **Forks**: 7,117 · **Open issues**: 9,459 · **Contributors**: 2,374
+- **Stars**: 115,543 · **Forks**: 7,124 · **Open issues**: 9,468 · **Contributors**: 2,374
 
 ## Totals (cumulative)
 
-- **Releases**: 315 · **Merged PRs**: 10476 · **Open PRs**: 200 · **Closed issues**: 8986 · **Open issues**: 473 · **Commits**: 11162
+- **Releases**: 315 · **Merged PRs**: 10479 · **Open PRs**: 198 · **Closed issues**: 8994 · **Open issues**: 474 · **Commits**: 11164
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 8 | 250 | 54 | 155 | 61 | 296 |
-| last60d | 2026-08-04 | 10 | 480 | 93 | 298 | 106 | 630 |
-| 90d | 2026-07-05 | 13 | 759 | 124 | 524 | 166 | 1157 |
-| last180d | 2026-04-06 | 24 | 1449 | 174 | 1000 | 237 | 2186 |
-| 360d | 2025-10-08 | 42 | 2840 | 196 | 2258 | 357 | 4937 |
-| last720d | 2024-10-13 | 100 | 5659 | 200 | 5108 | 452 | 5684 |
+| 30d | 2026-09-04 | 8 | 241 | 53 | 158 | 63 | 274 |
+| last60d | 2026-08-05 | 10 | 474 | 91 | 296 | 108 | 578 |
+| 90d | 2026-07-06 | 13 | 737 | 122 | 520 | 164 | 968 |
+| last180d | 2026-04-07 | 24 | 1426 | 172 | 998 | 237 | 2103 |
+| 360d | 2025-10-09 | 42 | 2832 | 194 | 2259 | 358 | 4745 |
+| last720d | 2024-10-14 | 100 | 5653 | 198 | 5111 | 453 | 5681 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:16:41Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:55:33Z._
