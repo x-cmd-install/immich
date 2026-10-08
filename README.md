@@ -14,14 +14,14 @@ x install immich
 
 ## Code insight
 
-Total: **501,332** lines of code across **2488** files in the top 5 languages.
+Total: **502,283** lines of code across **2496** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 212,949 | 0 | 0 | 166 |
-| TypeScript | 144,744 | 4,615 | 21,222 | 1071 |
-| Dart | 75,829 | 2,778 | 12,380 | 821 |
-| Yaml | 23,677 | 267 | 5,620 | 19 |
+| Json | 212,950 | 0 | 0 | 166 |
+| TypeScript | 145,242 | 4,613 | 21,313 | 1072 |
+| Dart | 75,936 | 2,779 | 12,399 | 825 |
+| Yaml | 23,718 | 268 | 5,625 | 22 |
 | Svelte | 17,426 | 200 | 1,370 | 411 |
 
 ## Source
@@ -32,43 +32,43 @@ Total: **501,332** lines of code across **2488** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v3.3.0-rc.2` (2026-09-28)
-- **Last commit**: 2026-10-06
+- **Latest**: `v3.3.0` (2026-10-07)
+- **Last commit**: 2026-10-07
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 115,695 · **Forks**: 7,144 · **Open issues**: 9,490 · **Contributors**: 2,375
+- **Stars**: 115,757 · **Forks**: 7,148 · **Open issues**: 9,501 · **Contributors**: 2,375
 
 ## Totals (cumulative)
 
-- **Releases**: 315 · **Merged PRs**: 10523 · **Open PRs**: 220 · **Closed issues**: 9020 · **Open issues**: 470 · **Commits**: 11189
+- **Releases**: 316 · **Merged PRs**: 10535 · **Open PRs**: 220 · **Closed issues**: 9028 · **Open issues**: 473 · **Commits**: 11198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 7 | 281 | 78 | 175 | 54 | 299 |
-| last60d | 2026-08-08 | 10 | 508 | 111 | 308 | 101 | 603 |
-| 90d | 2026-07-09 | 13 | 743 | 141 | 520 | 155 | 993 |
-| last180d | 2026-04-10 | 21 | 1453 | 191 | 992 | 230 | 2128 |
-| 360d | 2025-10-12 | 42 | 2866 | 216 | 2263 | 350 | 4770 |
-| last720d | 2024-10-17 | 100 | 5666 | 220 | 5092 | 448 | 5674 |
+| 30d | 2026-09-08 | 8 | 282 | 76 | 177 | 56 | 308 |
+| last60d | 2026-08-09 | 11 | 507 | 111 | 312 | 103 | 612 |
+| 90d | 2026-07-10 | 13 | 749 | 140 | 513 | 155 | 1002 |
+| last180d | 2026-04-11 | 21 | 1462 | 191 | 991 | 231 | 2137 |
+| 360d | 2025-10-13 | 43 | 2876 | 216 | 2265 | 353 | 4779 |
+| last720d | 2024-10-18 | 100 | 5671 | 220 | 5091 | 451 | 5669 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [app-arm64-v8a-release.apk](https://github.com/immich-app/immich/releases/download/v3.2.4/app-arm64-v8a-release.apk) | 65.8 MiB | `other` |
-| [app-armeabi-v7a-release.apk](https://github.com/immich-app/immich/releases/download/v3.2.4/app-armeabi-v7a-release.apk) | 60.7 MiB | `other` |
-| [app-release.apk](https://github.com/immich-app/immich/releases/download/v3.2.4/app-release.apk) | 170.7 MiB | `other` |
-| [app-x86_64-release.apk](https://github.com/immich-app/immich/releases/download/v3.2.4/app-x86_64-release.apk) | 68.4 MiB | `other` |
-| [docker-compose.rootless.yml](https://github.com/immich-app/immich/releases/download/v3.2.4/docker-compose.rootless.yml) | 3.2 KiB | `other` |
-| [docker-compose.yml](https://github.com/immich-app/immich/releases/download/v3.2.4/docker-compose.yml) | 2.8 KiB | `other` |
-| [example.env](https://github.com/immich-app/immich/releases/download/v3.2.4/example.env) | 979 B | `other` |
-| [hwaccel.ml.yml](https://github.com/immich-app/immich/releases/download/v3.2.4/hwaccel.ml.yml) | 1.4 KiB | `other` |
-| [hwaccel.transcoding.yml](https://github.com/immich-app/immich/releases/download/v3.2.4/hwaccel.transcoding.yml) | 1.6 KiB | `other` |
-| [prometheus.yml](https://github.com/immich-app/immich/releases/download/v3.2.4/prometheus.yml) | 260 B | `other` |
+| [app-arm64-v8a-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.0/app-arm64-v8a-release.apk) | 66.1 MiB | `other` |
+| [app-armeabi-v7a-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.0/app-armeabi-v7a-release.apk) | 61.0 MiB | `other` |
+| [app-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.0/app-release.apk) | 171.4 MiB | `other` |
+| [app-x86_64-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.0/app-x86_64-release.apk) | 68.6 MiB | `other` |
+| [docker-compose.rootless.yml](https://github.com/immich-app/immich/releases/download/v3.3.0/docker-compose.rootless.yml) | 3.2 KiB | `other` |
+| [docker-compose.yml](https://github.com/immich-app/immich/releases/download/v3.3.0/docker-compose.yml) | 2.8 KiB | `other` |
+| [example.env](https://github.com/immich-app/immich/releases/download/v3.3.0/example.env) | 979 B | `other` |
+| [hwaccel.ml.yml](https://github.com/immich-app/immich/releases/download/v3.3.0/hwaccel.ml.yml) | 1.2 KiB | `other` |
+| [hwaccel.transcoding.yml](https://github.com/immich-app/immich/releases/download/v3.3.0/hwaccel.transcoding.yml) | 1.6 KiB | `other` |
+| [prometheus.yml](https://github.com/immich-app/immich/releases/download/v3.3.0/prometheus.yml) | 260 B | `other` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:59:12Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T05:56:54Z._
