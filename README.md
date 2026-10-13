@@ -38,22 +38,22 @@ Total: **502,712** lines of code across **2498** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 116,062 · **Forks**: 7,198 · **Open issues**: 9,555 · **Contributors**: 2,391
+- **Stars**: 116,130 · **Forks**: 7,206 · **Open issues**: 9,565 · **Contributors**: 2,391
 
 ## Totals (cumulative)
 
-- **Releases**: 317 · **Merged PRs**: 10572 · **Open PRs**: 226 · **Closed issues**: 9069 · **Open issues**: 486 · **Commits**: 11223
+- **Releases**: 317 · **Merged PRs**: 10573 · **Open PRs**: 236 · **Closed issues**: 9077 · **Open issues**: 488 · **Commits**: 11224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 8 | 274 | 80 | 180 | 66 | 314 |
-| last60d | 2026-08-13 | 12 | 521 | 118 | 327 | 115 | 620 |
-| 90d | 2026-07-14 | 14 | 755 | 147 | 521 | 167 | 997 |
-| last180d | 2026-04-15 | 21 | 1462 | 194 | 1001 | 243 | 2097 |
-| 360d | 2025-10-17 | 43 | 2881 | 222 | 2274 | 361 | 4759 |
-| last720d | 2024-10-22 | 100 | 5680 | 226 | 5105 | 463 | 5674 |
+| 30d | 2026-09-13 | 8 | 273 | 91 | 169 | 65 | 315 |
+| last60d | 2026-08-14 | 12 | 512 | 126 | 334 | 116 | 621 |
+| 90d | 2026-07-15 | 14 | 742 | 157 | 517 | 165 | 998 |
+| last180d | 2026-04-16 | 21 | 1442 | 203 | 1003 | 244 | 2098 |
+| 360d | 2025-10-18 | 43 | 2877 | 232 | 2271 | 362 | 4760 |
+| last720d | 2024-10-23 | 100 | 5678 | 236 | 5109 | 465 | 5661 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:51:54Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:57:12Z._
