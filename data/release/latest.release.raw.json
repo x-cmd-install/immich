@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 69260133,
       "digest": "sha256:9215280247d74479f779b1fc756eca7281e3fd67ea816a31075080f1f372b08c",
-      "download_count": 21216,
+      "download_count": 23178,
       "created_at": "2026-10-08T21:43:11Z",
       "updated_at": "2026-10-08T21:43:15Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.1/app-arm64-v8a-release.apk"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 63974805,
       "digest": "sha256:e6e5ca7860af29f67d8d28830fb1684437c810d57f62b3927ac3c88a46567c04",
-      "download_count": 200,
+      "download_count": 223,
       "created_at": "2026-10-08T21:43:11Z",
       "updated_at": "2026-10-08T21:43:15Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.1/app-armeabi-v7a-release.apk"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 179772021,
       "digest": "sha256:f74a8e804089ce80f2569a43af105f81ba30a55c994a878a28859e8c2e33d0cf",
-      "download_count": 912,
+      "download_count": 1050,
       "created_at": "2026-10-08T21:43:11Z",
       "updated_at": "2026-10-08T21:43:17Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.1/app-release.apk"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 71980079,
       "digest": "sha256:d80bd845ef312fad2e8f6b0045b8f073f5737d689866869fc24ff5da09d49926",
-      "download_count": 232,
+      "download_count": 258,
       "created_at": "2026-10-08T21:43:11Z",
       "updated_at": "2026-10-08T21:43:15Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.1/app-x86_64-release.apk"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3263,
       "digest": "sha256:97587c3e22401b8e10c2fc780e481426050ce8085f542d7b28a7c3529181dc10",
-      "download_count": 393,
+      "download_count": 445,
       "created_at": "2026-10-08T21:43:10Z",
       "updated_at": "2026-10-08T21:43:10Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.1/docker-compose.rootless.yml"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2844,
       "digest": "sha256:2601c893aa3217d3c0c7284c23aaa1699aac75b533c84c0315fd16b7889fd552",
-      "download_count": 21639,
+      "download_count": 25652,
       "created_at": "2026-10-08T21:43:10Z",
       "updated_at": "2026-10-08T21:43:10Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.1/docker-compose.yml"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 979,
       "digest": "sha256:dda820cecbcf5fd5d6afecc54107bbd3c973088c631d380dfc83e9f0f2c6b210",
-      "download_count": 11622,
+      "download_count": 13986,
       "created_at": "2026-10-08T21:43:10Z",
       "updated_at": "2026-10-08T21:43:10Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.1/example.env"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1265,
       "digest": "sha256:4a1805c18c1ed7aea75fd5681ccf4eb6a9ad224fe1738bcf01a784b2cf828cdd",
-      "download_count": 1528,
+      "download_count": 1793,
       "created_at": "2026-10-08T21:43:10Z",
       "updated_at": "2026-10-08T21:43:10Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.1/hwaccel.ml.yml"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1679,
       "digest": "sha256:a50d01758fdbd468270ef7104dce6f282e217ef916238098ac94a70ca8e4c326",
-      "download_count": 1293,
+      "download_count": 1538,
       "created_at": "2026-10-08T21:43:10Z",
       "updated_at": "2026-10-08T21:43:10Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.1/hwaccel.transcoding.yml"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 260,
       "digest": "sha256:4e5fe9d3019df2d1cad4c865e87f9037d98e5f0c3bf28cd509f4f86e6829ae93",
-      "download_count": 192,
+      "download_count": 217,
       "created_at": "2026-10-08T21:43:10Z",
       "updated_at": "2026-10-08T21:43:11Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.1/prometheus.yml"
@@ -402,15 +402,15 @@
   "body": "This patch addresses various bugs around people sharing, as well as a scroll issue on mobile. Further, there is now an indicator showing which people are shared. \r\n\r\n## What's Changed\r\n### 🌟 Enhancements\r\n* feat: shared person indicator by @danieldietzler in https://github.com/immich-app/immich/pull/32223\r\n### 🐛 Bug fixes\r\n* fix(mobile): keep memories full screen while swiping by @santoshakil in https://github.com/immich-app/immich/pull/32171\r\n* fix(server): read ISO values above 65535 by @bo0tzz in https://github.com/immich-app/immich/pull/32182\r\n* fix: include partner shared assets for people even without showInTimeline by @danieldietzler in https://github.com/immich-app/immich/pull/32219\r\n* fix: clarify people sharing does not share assets by @jrasm91 in https://github.com/immich-app/immich/pull/32231\r\n* fix(mobile): prevent rapid toggling and rerendering of cells by @agg23 in https://github.com/immich-app/immich/pull/32200\r\n* fix: include unamed people in otherPeople by @jrasm91 in https://github.com/immich-app/immich/pull/32237\r\n* fix: run workflow steps in their configured order by @infocus13 in https://github.com/immich-app/immich/pull/32240\r\n* fix: show date on memories page by @alextran1502 in https://github.com/immich-app/immich/pull/32206\r\n### 📚 Documentation\r\n* docs: document persistent QNAP database storage by @yuhuan417 in https://github.com/immich-app/immich/pull/32222\r\n* docs: Add MACHINE_LEARNING_MODEL_REVISION variable to docs by @JPar99 in https://github.com/immich-app/immich/pull/32221\r\n### 🌐 Translations\r\n* chore(web): update translations by @weblate in https://github.com/immich-app/immich/pull/32029\r\n\r\n## New Contributors\r\n* @yuhuan417 made their first contribution in https://github.com/immich-app/immich/pull/32222\r\n* @JPar99 made their first contribution in https://github.com/immich-app/immich/pull/32221\r\n* @infocus13 made their first contribution in https://github.com/immich-app/immich/pull/32240\r\n\r\n**Full Changelog**: https://github.com/immich-app/immich/compare/v3.3.0...v3.3.1\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/immich-app/immich/releases/407287462/reactions",
-    "total_count": 133,
-    "+1": 65,
+    "total_count": 145,
+    "+1": 68,
     "-1": 0,
     "laugh": 8,
-    "hooray": 14,
+    "hooray": 16,
     "confused": 0,
-    "heart": 24,
-    "rocket": 15,
-    "eyes": 7
+    "heart": 27,
+    "rocket": 17,
+    "eyes": 9
   },
   "mentions_count": 10
 }
