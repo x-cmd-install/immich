@@ -33,27 +33,27 @@ Total: **502,907** lines of code across **2509** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.3.3` (2026-10-14)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 116,438 · **Forks**: 7,242 · **Open issues**: 9,596 · **Contributors**: 2,391
+- **Stars**: 116,513 · **Forks**: 7,253 · **Open issues**: 9,605 · **Contributors**: 2,390
 
 ## Totals (cumulative)
 
-- **Releases**: 318 · **Merged PRs**: 10616 · **Open PRs**: 226 · **Closed issues**: 9100 · **Open issues**: 496 · **Commits**: 11264
+- **Releases**: 318 · **Merged PRs**: 10616 · **Open PRs**: 230 · **Closed issues**: 9110 · **Open issues**: 495 · **Commits**: 11265
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 7 | 267 | 81 | 166 | 67 | 362 |
-| last60d | 2026-08-18 | 13 | 533 | 117 | 340 | 121 | 668 |
-| 90d | 2026-07-19 | 14 | 770 | 146 | 513 | 173 | 1045 |
-| last180d | 2026-04-20 | 22 | 1455 | 192 | 997 | 251 | 2145 |
-| 360d | 2025-10-22 | 44 | 2888 | 222 | 2266 | 370 | 4807 |
-| last720d | 2024-10-27 | 100 | 5704 | 226 | 5109 | 474 | 5689 |
+| 30d | 2026-09-18 | 7 | 265 | 85 | 172 | 65 | 322 |
+| last60d | 2026-08-19 | 13 | 525 | 120 | 345 | 118 | 595 |
+| 90d | 2026-07-20 | 14 | 764 | 150 | 516 | 169 | 946 |
+| last180d | 2026-04-21 | 22 | 1441 | 196 | 1001 | 250 | 2104 |
+| 360d | 2025-10-23 | 44 | 2874 | 226 | 2269 | 369 | 4733 |
+| last720d | 2024-10-28 | 100 | 5699 | 230 | 5113 | 473 | 5687 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:27:18Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:26:12Z._
