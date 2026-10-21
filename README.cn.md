@@ -14,15 +14,15 @@ x install immich
 
 ## 代码洞察
 
-合计: **503,235** 行代码（覆盖前 5 种语言、共 **2512** 个文件）。
+合计: **507,054** 行代码（覆盖前 5 种语言、共 **2531** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 213,308 | 0 | 0 | 165 |
-| TypeScript | 145,386 | 4,659 | 21,324 | 1079 |
-| Dart | 76,945 | 2,806 | 12,546 | 833 |
-| Yaml | 23,244 | 268 | 5,527 | 22 |
-| Svelte | 17,388 | 199 | 1,368 | 413 |
+| Json | 213,932 | 0 | 0 | 165 |
+| TypeScript | 148,121 | 4,707 | 21,739 | 1096 |
+| Dart | 76,984 | 2,806 | 12,548 | 833 |
+| Yaml | 23,315 | 268 | 5,549 | 22 |
+| Svelte | 17,537 | 199 | 1,382 | 415 |
 
 ## 源代码
 
@@ -32,43 +32,43 @@ x install immich
 
 ## 发布
 
-- **最新版本**: `v3.3.3` (2026-10-14)
-- **最近提交**: 2026-10-19
+- **最新版本**: `v3.3.4` (2026-10-20)
+- **最近提交**: 2026-10-20
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 116,695 · **Fork**: 7,281 · **开放 issue**: 9,617 · **贡献者**: 2,392
+- **Star**: 116,791 · **Fork**: 7,291 · **开放 issue**: 9,622 · **贡献者**: 2,391
 
 ## 累计统计
 
-- **发布数**: 318 · **已合并 PR**: 10629 · **开放 PR**: 243 · **已关闭 issue**: 9124 · **开放 issue**: 493 · **提交数**: 11277
+- **发布数**: 319 · **已合并 PR**: 10658 · **开放 PR**: 229 · **已关闭 issue**: 9133 · **开放 issue**: 489 · **提交数**: 11305
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 7 | 277 | 97 | 173 | 65 | 337 |
-| last60d | 2026-08-21 | 13 | 522 | 130 | 349 | 115 | 610 |
-| 90d | 2026-07-22 | 14 | 747 | 161 | 519 | 165 | 961 |
-| last180d | 2026-04-23 | 22 | 1448 | 209 | 1007 | 247 | 2119 |
-| 360d | 2025-10-25 | 44 | 2882 | 239 | 2267 | 367 | 4748 |
-| last720d | 2024-10-30 | 100 | 5682 | 243 | 5111 | 471 | 5677 |
+| 30d | 2026-09-21 | 8 | 302 | 84 | 176 | 64 | 359 |
+| last60d | 2026-08-22 | 14 | 549 | 117 | 353 | 111 | 632 |
+| 90d | 2026-07-23 | 15 | 764 | 146 | 525 | 159 | 983 |
+| last180d | 2026-04-24 | 23 | 1477 | 195 | 1009 | 243 | 2141 |
+| 360d | 2025-10-26 | 45 | 2910 | 225 | 2268 | 361 | 4765 |
+| last720d | 2024-10-31 | 100 | 5703 | 229 | 5117 | 467 | 5693 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [app-arm64-v8a-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.3/app-arm64-v8a-release.apk) | 66.1 MiB | `other` |
-| [app-armeabi-v7a-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.3/app-armeabi-v7a-release.apk) | 61.0 MiB | `other` |
-| [app-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.3/app-release.apk) | 171.4 MiB | `other` |
-| [app-x86_64-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.3/app-x86_64-release.apk) | 68.6 MiB | `other` |
-| [docker-compose.rootless.yml](https://github.com/immich-app/immich/releases/download/v3.3.3/docker-compose.rootless.yml) | 3.2 KiB | `other` |
-| [docker-compose.yml](https://github.com/immich-app/immich/releases/download/v3.3.3/docker-compose.yml) | 2.8 KiB | `other` |
-| [example.env](https://github.com/immich-app/immich/releases/download/v3.3.3/example.env) | 979 B | `other` |
-| [hwaccel.ml.yml](https://github.com/immich-app/immich/releases/download/v3.3.3/hwaccel.ml.yml) | 1.2 KiB | `other` |
-| [hwaccel.transcoding.yml](https://github.com/immich-app/immich/releases/download/v3.3.3/hwaccel.transcoding.yml) | 1.6 KiB | `other` |
-| [prometheus.yml](https://github.com/immich-app/immich/releases/download/v3.3.3/prometheus.yml) | 260 B | `other` |
+| [app-arm64-v8a-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.4/app-arm64-v8a-release.apk) | 66.1 MiB | `other` |
+| [app-armeabi-v7a-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.4/app-armeabi-v7a-release.apk) | 61.0 MiB | `other` |
+| [app-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.4/app-release.apk) | 171.4 MiB | `other` |
+| [app-x86_64-release.apk](https://github.com/immich-app/immich/releases/download/v3.3.4/app-x86_64-release.apk) | 68.6 MiB | `other` |
+| [docker-compose.rootless.yml](https://github.com/immich-app/immich/releases/download/v3.3.4/docker-compose.rootless.yml) | 3.2 KiB | `other` |
+| [docker-compose.yml](https://github.com/immich-app/immich/releases/download/v3.3.4/docker-compose.yml) | 2.8 KiB | `other` |
+| [example.env](https://github.com/immich-app/immich/releases/download/v3.3.4/example.env) | 979 B | `other` |
+| [hwaccel.ml.yml](https://github.com/immich-app/immich/releases/download/v3.3.4/hwaccel.ml.yml) | 1.2 KiB | `other` |
+| [hwaccel.transcoding.yml](https://github.com/immich-app/immich/releases/download/v3.3.4/hwaccel.transcoding.yml) | 1.6 KiB | `other` |
+| [prometheus.yml](https://github.com/immich-app/immich/releases/download/v3.3.4/prometheus.yml) | 260 B | `other` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ immich 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T04:48:08Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T04:38:11Z._
