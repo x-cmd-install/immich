@@ -1,3 +1,10 @@
+- repo: wikidata
+  srcname: Q127016931
+  visiblename: immich
+  version: 3.3.5
+  origversion: null
+  status: newest
+  summary: self-hosted photo and video management software
 - repo: aur
   srcname: immich
   binname: immich-server
@@ -64,9 +71,9 @@
   srcname: www/immich
   binname: immich
   visiblename: www/immich
-  version: 3.2.4
-  origversion: 3.2.4_2
-  status: outdated
+  version: 3.3.5
+  origversion: null
+  status: newest
   summary: High performance self-hosted photo and video management solution
   maintainers:
     - joneum@freebsd.org
@@ -135,9 +142,9 @@
 - repo: nix_unstable
   srcname: immich
   visiblename: immich
-  version: 3.3.3
+  version: 3.3.5
   origversion: null
-  status: outdated
+  status: newest
   summary: Self-hosted photo and video backup solution
   maintainers:
     - me@diogotc.com
@@ -148,10 +155,3 @@
   licenses:
     - AGPL-3.0-only
     - CC-BY-4.0
-- repo: wikidata
-  srcname: Q127016931
-  visiblename: immich
-  version: 3.3.5
-  origversion: null
-  status: newest
-  summary: self-hosted photo and video management software
