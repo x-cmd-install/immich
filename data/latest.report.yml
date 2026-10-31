@@ -2,33 +2,33 @@ about:
   description: "High performance self-hosted photo and video management solution."
   license: AGPL-3.0
   homepage: https://immich.app
-  head: 4bdc448
+  head: 3184b15
   archived: false
-  latestVersion: "v3.3.5"
+  latestVersion: "v3.4.0-rc.1"
   latestRelease: "v3.3.5"
-  latestPrerelease: "v3.3.0-rc.2"
-  collectedAt: 2026-10-30T05:41:25Z
+  latestPrerelease: "v3.4.0-rc.1"
+  collectedAt: 2026-10-31T05:32:55Z
 timeline:
   created: 2022-02-03
-  lastCommit: 2026-10-29
-  lastVersion: 2026-10-21
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-30
   lastRelease: 2026-10-21
-  lastPrerelease: 2026-10-02
+  lastPrerelease: 2026-10-30
 popularity:
-  star: 117651
+  star: 117758
   watcher: 351
-  fork: 7411
-  release: 320
+  fork: 7422
+  release: 321
   contributor: 2407
-  pullRequest: 13264
-  issue: 9667
+  pullRequest: 13281
+  issue: 9669
 language:
-  TypeScript: 6408546
-  Dart: 3312299
+  TypeScript: 6423550
+  Dart: 3312951
   Svelte: 1440435
   Python: 269543
   Kotlin: 160726
-  Swift: 119432
+  Swift: 120374
   Rust: 61544
   Shell: 19007
   JavaScript: 18985
@@ -40,81 +40,81 @@ language:
   CSS: 4466
   Objective-C: 393
   Go Template: 207
-totalBytes: 11866752
+totalBytes: 11883350
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 7
-    mergedPR: 302
-    openPR: 46
-    closedIssue: 160
-    openIssue: 73
-    commit: 379
+    mergedPR: 305
+    openPR: 44
+    closedIssue: 158
+    openIssue: 71
+    commit: 387
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 14
-    mergedPR: 579
-    openPR: 70
-    closedIssue: 335
-    openIssue: 116
-    commit: 652
+    mergedPR: 586
+    openPR: 66
+    closedIssue: 333
+    openIssue: 113
+    commit: 660
   last90d:
-    since: 2026-08-01
-    release: 15
-    mergedPR: 796
-    openPR: 95
-    closedIssue: 486
-    openIssue: 156
-    commit: 989
+    since: 2026-08-02
+    release: 16
+    mergedPR: 809
+    openPR: 91
+    closedIssue: 483
+    openIssue: 154
+    commit: 997
   last180d:
-    since: 2026-05-03
-    release: 24
-    mergedPR: 1553
-    openPR: 152
-    closedIssue: 1013
-    openIssue: 252
-    commit: 2253
+    since: 2026-05-04
+    release: 25
+    mergedPR: 1559
+    openPR: 148
+    closedIssue: 1015
+    openIssue: 251
+    commit: 2261
   last360d:
-    since: 2025-11-04
-    release: 43
-    mergedPR: 2946
-    openPR: 180
-    closedIssue: 2204
-    openIssue: 357
-    commit: 4767
+    since: 2025-11-05
+    release: 44
+    mergedPR: 2961
+    openPR: 176
+    closedIssue: 2192
+    openIssue: 355
+    commit: 4775
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 100
-    mergedPR: 5767
-    openPR: 184
-    closedIssue: 5099
-    openIssue: 474
-    commit: 5744
+    mergedPR: 5782
+    openPR: 179
+    closedIssue: 5090
+    openIssue: 473
+    commit: 5749
 total:
-  release: 320
-  mergedPR: 10775
-  openPR: 184
-  closedIssue: 9171
-  openIssue: 496
-  commit: 11413
+  release: 321
+  mergedPR: 10793
+  openPR: 179
+  closedIssue: 9175
+  openIssue: 494
+  commit: 11422
 ---
 path: /home/runner/.x-repo/github.com/immich-app/immich
-collectedAt: 2026-10-30T05:41:51Z
+collectedAt: 2026-10-31T05:33:31Z
 loc:
   Json:
-    code: 218979
+    code: 219021
     comments: 0
     blanks: 0
     files: 166
   TypeScript:
-    code: 151802
-    comments: 4798
-    blanks: 22083
+    code: 152094
+    comments: 4807
+    blanks: 22122
     files: 1115
   Dart:
-    code: 77307
-    comments: 2819
-    blanks: 12616
+    code: 77321
+    comments: 2820
+    blanks: 12618
     files: 836
   Yaml:
     code: 23824
@@ -127,7 +127,7 @@ loc:
     blanks: 1393
     files: 422
   Sql:
-    code: 9881
+    code: 9885
     comments: 445
     blanks: 406
     files: 39
@@ -142,9 +142,9 @@ loc:
     blanks: 624
     files: 36
   Swift:
-    code: 3021
-    comments: 198
-    blanks: 540
+    code: 3036
+    comments: 199
+    blanks: 543
     files: 28
   Rust:
     code: 1522
@@ -237,11 +237,11 @@ loc:
     blanks: 6
     files: 83
 total:
-  code: 538392
-  comments: 17825
-  blanks: 51149
+  code: 538759
+  comments: 17836
+  blanks: 51193
   files: 3072
 ---
 
 ---
-{"id":419885390,"author":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGyI-8M4ZBvFO","tag_name":"v3.3.5","target_commitish":"release/v3.3","name":"v3.3.5","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-21T17:36:21Z","updated_at":"2026-10-22T08:12:20Z","published_at":"2026-10-21T18:12:57Z","assets":[{"id":663357897,"node_id":"RA_kwDOGyI-8M4nignJ","name":"app-arm64-v8a-release.apk","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.android.package-archive","state":"uploaded","size":69260133,"digest":"sha256:efea3a47ba3393a78882d07fa11b9ff0051fc6b7d9e0c92505f2912aafdc6695","download_count":31342,"created_at":"2026-10-21T18:03:48Z","updated_at":"2026-10-21T18:03:52Z"},{"id":663357922,"node_id":"RA_kwDOGyI-8M4nigni","name":"app-armeabi-v7a-release.apk","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.android.package-archive","state":"uploaded","size":63974805,"digest":"sha256:e04032d190a4c053ae490baa0a2703f06537ff2e5c5fa40d024bea15facd47a6","download_count":362,"created_at":"2026-10-21T18:03:48Z","updated_at":"2026-10-21T18:03:55Z"},{"id":663357927,"node_id":"RA_kwDOGyI-8M4nignn","name":"app-release.apk","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.android.package-archive","state":"uploaded","size":179772021,"digest":"sha256:e12e4d40959f9731078f03cb880ed288256a3214f56f93ae667c1b4e43b10a28","download_count":1872,"created_at":"2026-10-21T18:03:49Z","updated_at":"2026-10-21T18:03:57Z"},{"id":663357931,"node_id":"RA_kwDOGyI-8M4nignr","name":"app-x86_64-release.apk","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.android.package-archive","state":"uploaded","size":71980079,"digest":"sha256:c00a63bc850b1b41755679b13db18072525456acac41e71f3d5c552c2de72677","download_count":394,"created_at":"2026-10-21T18:03:49Z","updated_at":"2026-10-21T18:03:52Z"},{"id":663357845,"node_id":"RA_kwDOGyI-8M4nigmV","name":"docker-compose.rootless.yml","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":3263,"digest":"sha256:97587c3e22401b8e10c2fc780e481426050ce8085f542d7b28a7c3529181dc10","download_count":656,"created_at":"2026-10-21T18:03:47Z","updated_at":"2026-10-21T18:03:48Z"},{"id":663357847,"node_id":"RA_kwDOGyI-8M4nigmX","name":"docker-compose.yml","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":2844,"digest":"sha256:2601c893aa3217d3c0c7284c23aaa1699aac75b533c84c0315fd16b7889fd552","download_count":43600,"created_at":"2026-10-21T18:03:47Z","updated_at":"2026-10-21T18:03:47Z"},{"id":663357855,"node_id":"RA_kwDOGyI-8M4nigmf","name":"example.env","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":979,"digest":"sha256:dda820cecbcf5fd5d6afecc54107bbd3c973088c631d380dfc83e9f0f2c6b210","download_count":22295,"created_at":"2026-10-21T18:03:47Z","updated_at":"2026-10-21T18:03:48Z"},{"id":663357848,"node_id":"RA_kwDOGyI-8M4nigmY","name":"hwaccel.ml.yml","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":1265,"digest":"sha256:4a1805c18c1ed7aea75fd5681ccf4eb6a9ad224fe1738bcf01a784b2cf828cdd","download_count":2560,"created_at":"2026-10-21T18:03:47Z","updated_at":"2026-10-21T18:03:48Z"},{"id":663357851,"node_id":"RA_kwDOGyI-8M4nigmb","name":"hwaccel.transcoding.yml","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":1679,"digest":"sha256:a50d01758fdbd468270ef7104dce6f282e217ef916238098ac94a70ca8e4c326","download_count":2419,"created_at":"2026-10-21T18:03:47Z","updated_at":"2026-10-21T18:03:48Z"},{"id":663357887,"node_id":"RA_kwDOGyI-8M4nigm_","name":"prometheus.yml","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":260,"digest":"sha256:4e5fe9d3019df2d1cad4c865e87f9037d98e5f0c3bf28cd509f4f86e6829ae93","download_count":257,"created_at":"2026-10-21T18:03:48Z","updated_at":"2026-10-21T18:03:48Z"}],"body":"> [!CAUTION]\r\n> This version contains a fix for today's CA compromise (https://emudhra.we-have-a-problem.com/) as well as some [nodejs security patches](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases). While we don't believe this compromise brings an immediate danger to Immich instances, we still recommend that you update as soon as possible.\r\n\r\nhttps://xkcd.com/221/\r\n\r\n## What's Changed\r\n### 🔒 Security\r\n* chore(deps): update python docker digests by @bo0tzz in https://github.com/immich-app/immich/pull/32635\r\n* chore(deps): update dependency certifi to v2026.10.19 by @bo0tzz in https://github.com/immich-app/immich/pull/32636\r\n\r\n**Full Changelog**: https://github.com/immich-app/immich/compare/v3.3.4...v3.3.5\r\n","reactions":{"total_count":253,"+1":114,"-1":0,"laugh":30,"hooray":21,"confused":0,"heart":54,"rocket":24,"eyes":10},"mentions_count":1}
+{"id":419885390,"author":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGyI-8M4ZBvFO","tag_name":"v3.3.5","target_commitish":"release/v3.3","name":"v3.3.5","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-21T17:36:21Z","updated_at":"2026-10-22T08:12:20Z","published_at":"2026-10-21T18:12:57Z","assets":[{"id":663357897,"node_id":"RA_kwDOGyI-8M4nignJ","name":"app-arm64-v8a-release.apk","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.android.package-archive","state":"uploaded","size":69260133,"digest":"sha256:efea3a47ba3393a78882d07fa11b9ff0051fc6b7d9e0c92505f2912aafdc6695","download_count":32235,"created_at":"2026-10-21T18:03:48Z","updated_at":"2026-10-21T18:03:52Z"},{"id":663357922,"node_id":"RA_kwDOGyI-8M4nigni","name":"app-armeabi-v7a-release.apk","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.android.package-archive","state":"uploaded","size":63974805,"digest":"sha256:e04032d190a4c053ae490baa0a2703f06537ff2e5c5fa40d024bea15facd47a6","download_count":403,"created_at":"2026-10-21T18:03:48Z","updated_at":"2026-10-21T18:03:55Z"},{"id":663357927,"node_id":"RA_kwDOGyI-8M4nignn","name":"app-release.apk","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.android.package-archive","state":"uploaded","size":179772021,"digest":"sha256:e12e4d40959f9731078f03cb880ed288256a3214f56f93ae667c1b4e43b10a28","download_count":2035,"created_at":"2026-10-21T18:03:49Z","updated_at":"2026-10-21T18:03:57Z"},{"id":663357931,"node_id":"RA_kwDOGyI-8M4nignr","name":"app-x86_64-release.apk","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.android.package-archive","state":"uploaded","size":71980079,"digest":"sha256:c00a63bc850b1b41755679b13db18072525456acac41e71f3d5c552c2de72677","download_count":431,"created_at":"2026-10-21T18:03:49Z","updated_at":"2026-10-21T18:03:52Z"},{"id":663357845,"node_id":"RA_kwDOGyI-8M4nigmV","name":"docker-compose.rootless.yml","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":3263,"digest":"sha256:97587c3e22401b8e10c2fc780e481426050ce8085f542d7b28a7c3529181dc10","download_count":707,"created_at":"2026-10-21T18:03:47Z","updated_at":"2026-10-21T18:03:48Z"},{"id":663357847,"node_id":"RA_kwDOGyI-8M4nigmX","name":"docker-compose.yml","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":2844,"digest":"sha256:2601c893aa3217d3c0c7284c23aaa1699aac75b533c84c0315fd16b7889fd552","download_count":48060,"created_at":"2026-10-21T18:03:47Z","updated_at":"2026-10-21T18:03:47Z"},{"id":663357855,"node_id":"RA_kwDOGyI-8M4nigmf","name":"example.env","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":979,"digest":"sha256:dda820cecbcf5fd5d6afecc54107bbd3c973088c631d380dfc83e9f0f2c6b210","download_count":24698,"created_at":"2026-10-21T18:03:47Z","updated_at":"2026-10-21T18:03:48Z"},{"id":663357848,"node_id":"RA_kwDOGyI-8M4nigmY","name":"hwaccel.ml.yml","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":1265,"digest":"sha256:4a1805c18c1ed7aea75fd5681ccf4eb6a9ad224fe1738bcf01a784b2cf828cdd","download_count":2807,"created_at":"2026-10-21T18:03:47Z","updated_at":"2026-10-21T18:03:48Z"},{"id":663357851,"node_id":"RA_kwDOGyI-8M4nigmb","name":"hwaccel.transcoding.yml","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":1679,"digest":"sha256:a50d01758fdbd468270ef7104dce6f282e217ef916238098ac94a70ca8e4c326","download_count":2642,"created_at":"2026-10-21T18:03:47Z","updated_at":"2026-10-21T18:03:48Z"},{"id":663357887,"node_id":"RA_kwDOGyI-8M4nigm_","name":"prometheus.yml","label":"","uploader":{"login":"immich-push-o-matic[bot]","id":179150890,"node_id":"BOT_kgDOCq2gKg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":260,"digest":"sha256:4e5fe9d3019df2d1cad4c865e87f9037d98e5f0c3bf28cd509f4f86e6829ae93","download_count":277,"created_at":"2026-10-21T18:03:48Z","updated_at":"2026-10-21T18:03:48Z"}],"body":"> [!CAUTION]\r\n> This version contains a fix for today's CA compromise (https://emudhra.we-have-a-problem.com/) as well as some [nodejs security patches](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases). While we don't believe this compromise brings an immediate danger to Immich instances, we still recommend that you update as soon as possible.\r\n\r\nhttps://xkcd.com/221/\r\n\r\n## What's Changed\r\n### 🔒 Security\r\n* chore(deps): update python docker digests by @bo0tzz in https://github.com/immich-app/immich/pull/32635\r\n* chore(deps): update dependency certifi to v2026.10.19 by @bo0tzz in https://github.com/immich-app/immich/pull/32636\r\n\r\n**Full Changelog**: https://github.com/immich-app/immich/compare/v3.3.4...v3.3.5\r\n","reactions":{"total_count":262,"+1":120,"-1":0,"laugh":31,"hooray":21,"confused":0,"heart":56,"rocket":24,"eyes":10},"mentions_count":1}

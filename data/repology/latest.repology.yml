@@ -65,7 +65,7 @@
   binname: immich
   visiblename: www/immich
   version: 3.3.5
-  origversion: null
+  origversion: 3.3.5_1
   status: newest
   summary: High performance self-hosted photo and video management solution
   maintainers:
