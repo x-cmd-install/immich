@@ -2,8 +2,8 @@
   srcname: immich
   binname: immich-server
   visiblename: immich-server
-  version: 3.3.5
-  origversion: 3.3.5-1
+  version: 3.3.6
+  origversion: 3.3.6-1
   status: newest
   summary: Self-hosted photos and videos backup tool (server and web client)
   maintainers:
@@ -15,8 +15,8 @@
   srcname: immich
   binname: immich-cli
   visiblename: immich-cli
-  version: 3.3.5
-  origversion: 3.3.5-1
+  version: 3.3.6
+  origversion: 3.3.6-1
   status: newest
   summary: Self-hosted photos and videos backup tool (command-line client)
   maintainers:
@@ -30,7 +30,7 @@
   visiblename: Immich
   version: 3.3.5
   origversion: null
-  status: newest
+  status: outdated
   summary: This is a client app for the self-hostable Immich Server
   licenses:
     - AGPL-3.0-only
@@ -66,7 +66,7 @@
   visiblename: www/immich
   version: 3.3.5
   origversion: 3.3.5_1
-  status: newest
+  status: outdated
   summary: High performance self-hosted photo and video management solution
   maintainers:
     - joneum@freebsd.org
@@ -137,7 +137,7 @@
   visiblename: immich
   version: 3.3.5
   origversion: null
-  status: newest
+  status: outdated
   summary: Self-hosted photo and video backup solution
   maintainers:
     - me@diogotc.com
@@ -153,5 +153,5 @@
   visiblename: immich
   version: 3.3.5
   origversion: null
-  status: newest
+  status: outdated
   summary: self-hosted photo and video management software
