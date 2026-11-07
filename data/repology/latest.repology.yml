@@ -64,9 +64,9 @@
   srcname: www/immich
   binname: immich
   visiblename: www/immich
-  version: 3.3.5
-  origversion: 3.3.5_1
-  status: outdated
+  version: 3.3.6
+  origversion: null
+  status: newest
   summary: High performance self-hosted photo and video management solution
   maintainers:
     - joneum@freebsd.org
