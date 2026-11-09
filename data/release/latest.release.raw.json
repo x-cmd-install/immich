@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 69260133,
       "digest": "sha256:0c89f2af60d14aef178424f35f8c58e4313e2b8453647366eed6b3358f668482",
-      "download_count": 2996,
+      "download_count": 3690,
       "created_at": "2026-11-04T17:19:40Z",
       "updated_at": "2026-11-04T17:19:45Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.6/app-arm64-v8a-release.apk"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 63974805,
       "digest": "sha256:43f5eefdbec549caf28140dc87cbd13e3c208b4cec99f2a17ebd73b08f0822e2",
-      "download_count": 140,
+      "download_count": 171,
       "created_at": "2026-11-04T17:19:40Z",
       "updated_at": "2026-11-04T17:19:48Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.6/app-armeabi-v7a-release.apk"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 179772021,
       "digest": "sha256:28a0e5add84325fefb615f8b5d6a5d145bbf4b06e6ed9a08ef37f5156c7bb79e",
-      "download_count": 965,
+      "download_count": 1133,
       "created_at": "2026-11-04T17:19:40Z",
       "updated_at": "2026-11-04T17:19:49Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.6/app-release.apk"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 71980079,
       "digest": "sha256:e58b54d433e5132266b83d06e91c9191b9165296911d857ab71079d180ab3a49",
-      "download_count": 146,
+      "download_count": 183,
       "created_at": "2026-11-04T17:19:40Z",
       "updated_at": "2026-11-04T17:19:46Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.6/app-x86_64-release.apk"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3263,
       "digest": "sha256:97587c3e22401b8e10c2fc780e481426050ce8085f542d7b28a7c3529181dc10",
-      "download_count": 282,
+      "download_count": 344,
       "created_at": "2026-11-04T17:19:39Z",
       "updated_at": "2026-11-04T17:19:39Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.6/docker-compose.rootless.yml"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2844,
       "digest": "sha256:2601c893aa3217d3c0c7284c23aaa1699aac75b533c84c0315fd16b7889fd552",
-      "download_count": 17242,
+      "download_count": 22513,
       "created_at": "2026-11-04T17:19:39Z",
       "updated_at": "2026-11-04T17:19:40Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.6/docker-compose.yml"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 979,
       "digest": "sha256:dda820cecbcf5fd5d6afecc54107bbd3c973088c631d380dfc83e9f0f2c6b210",
-      "download_count": 8779,
+      "download_count": 11549,
       "created_at": "2026-11-04T17:19:39Z",
       "updated_at": "2026-11-04T17:19:39Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.6/example.env"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1265,
       "digest": "sha256:4a1805c18c1ed7aea75fd5681ccf4eb6a9ad224fe1738bcf01a784b2cf828cdd",
-      "download_count": 1020,
+      "download_count": 1292,
       "created_at": "2026-11-04T17:19:39Z",
       "updated_at": "2026-11-04T17:19:40Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.6/hwaccel.ml.yml"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1679,
       "digest": "sha256:a50d01758fdbd468270ef7104dce6f282e217ef916238098ac94a70ca8e4c326",
-      "download_count": 921,
+      "download_count": 1189,
       "created_at": "2026-11-04T17:19:39Z",
       "updated_at": "2026-11-04T17:19:39Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.6/hwaccel.transcoding.yml"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 260,
       "digest": "sha256:4e5fe9d3019df2d1cad4c865e87f9037d98e5f0c3bf28cd509f4f86e6829ae93",
-      "download_count": 122,
+      "download_count": 152,
       "created_at": "2026-11-04T17:19:40Z",
       "updated_at": "2026-11-04T17:19:40Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.3.6/prometheus.yml"
@@ -402,15 +402,15 @@
   "body": "Unfortunately we missed that onnxruntime enabled telemetry by default in a recent release, resulting in the ML container automatically sending anonymous metric data to Microsoft. We have now disabled it. Apologies to everyone that we did not catch this change immediately, and thanks to our community for flagging it!\r\n\r\n## What's Changed\r\n### 🐛 Bug fixes\r\n* fix(ml): disable onnxruntime telemetry by @mjkent in https://github.com/immich-app/immich/pull/32956\r\n\r\n## New Contributors\r\n* @mjkent made their first contribution in https://github.com/immich-app/immich/pull/32956\r\n\r\n**Full Changelog**: https://github.com/immich-app/immich/compare/v3.3.5...v3.3.6\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/immich-app/immich/releases/434225550/reactions",
-    "total_count": 271,
-    "+1": 115,
+    "total_count": 284,
+    "+1": 122,
     "-1": 0,
     "laugh": 0,
-    "hooray": 38,
+    "hooray": 40,
     "confused": 0,
-    "heart": 82,
+    "heart": 85,
     "rocket": 15,
-    "eyes": 21
+    "eyes": 22
   },
   "mentions_count": 1
 }
