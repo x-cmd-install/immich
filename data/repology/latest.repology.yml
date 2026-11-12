@@ -2,8 +2,8 @@
   srcname: immich
   binname: immich-server
   visiblename: immich-server
-  version: 3.4.0
-  origversion: 3.4.0-1
+  version: 3.4.1
+  origversion: 3.4.1-1
   status: newest
   summary: Self-hosted photos and videos backup tool (server and web client)
   maintainers:
@@ -15,8 +15,8 @@
   srcname: immich
   binname: immich-cli
   visiblename: immich-cli
-  version: 3.4.0
-  origversion: 3.4.0-1
+  version: 3.4.1
+  origversion: 3.4.1-1
   status: newest
   summary: Self-hosted photos and videos backup tool (command-line client)
   maintainers:
@@ -64,7 +64,7 @@
   srcname: www/immich
   binname: immich
   visiblename: www/immich
-  version: 3.3.6
+  version: 3.4.0
   origversion: null
   status: outdated
   summary: High performance self-hosted photo and video management solution
@@ -151,7 +151,7 @@
 - repo: wikidata
   srcname: Q127016931
   visiblename: immich
-  version: 3.3.6
+  version: 3.4.0
   origversion: null
   status: outdated
   summary: self-hosted photo and video management software
