@@ -64,9 +64,9 @@
   srcname: www/immich
   binname: immich
   visiblename: www/immich
-  version: 3.4.0
+  version: 3.4.1
   origversion: null
-  status: outdated
+  status: newest
   summary: High performance self-hosted photo and video management solution
   maintainers:
     - joneum@freebsd.org
@@ -135,9 +135,9 @@
 - repo: nix_unstable
   srcname: immich
   visiblename: immich
-  version: 3.3.6
+  version: 3.4.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Self-hosted photo and video backup solution
   maintainers:
     - me@diogotc.com
@@ -151,7 +151,7 @@
 - repo: wikidata
   srcname: Q127016931
   visiblename: immich
-  version: 3.4.0
+  version: 3.4.1
   origversion: null
-  status: outdated
+  status: newest
   summary: self-hosted photo and video management software
