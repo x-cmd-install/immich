@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 71851873,
       "digest": "sha256:fae6c0f77a714b0c99ef6eb7e278ce9650b509ead00b9ecb15ffc2ae9f6c71a5",
-      "download_count": 14992,
+      "download_count": 18527,
       "created_at": "2026-11-11T18:25:29Z",
       "updated_at": "2026-11-11T18:25:31Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.4.1/app-arm64-v8a-release.apk"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 66072457,
       "digest": "sha256:c7e44084ea0d72b6ee90148e5372ca3f67b1b40a1d03f5a55a65200461feb1f7",
-      "download_count": 97,
+      "download_count": 151,
       "created_at": "2026-11-11T18:25:29Z",
       "updated_at": "2026-11-11T18:25:33Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.4.1/app-armeabi-v7a-release.apk"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 187294981,
       "digest": "sha256:b072fdb8c7df3ca7178544ea5d4bb7d41caee62e62ff8409d355dbbd66a59d27",
-      "download_count": 774,
+      "download_count": 1006,
       "created_at": "2026-11-11T18:25:29Z",
       "updated_at": "2026-11-11T18:25:35Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.4.1/app-release.apk"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 74997431,
       "digest": "sha256:398f0be793dda8bc7f4223adb037ba9c5536d4d423958b1379612d31dfe8217a",
-      "download_count": 111,
+      "download_count": 173,
       "created_at": "2026-11-11T18:25:29Z",
       "updated_at": "2026-11-11T18:25:32Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.4.1/app-x86_64-release.apk"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3322,
       "digest": "sha256:8a054638b78a7f928ac78b9b3a8418b61ae62af375a70902958f861dcff38fdc",
-      "download_count": 200,
+      "download_count": 281,
       "created_at": "2026-11-11T18:25:28Z",
       "updated_at": "2026-11-11T18:25:29Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.4.1/docker-compose.rootless.yml"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2903,
       "digest": "sha256:1455e3f474687cb96ecb2eab23a0a7268ac5515b094022c66f3902ceb7f0a564",
-      "download_count": 8663,
+      "download_count": 13933,
       "created_at": "2026-11-11T18:25:28Z",
       "updated_at": "2026-11-11T18:25:29Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.4.1/docker-compose.yml"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 979,
       "digest": "sha256:dda820cecbcf5fd5d6afecc54107bbd3c973088c631d380dfc83e9f0f2c6b210",
-      "download_count": 4091,
+      "download_count": 6763,
       "created_at": "2026-11-11T18:25:28Z",
       "updated_at": "2026-11-11T18:25:29Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.4.1/example.env"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1265,
       "digest": "sha256:4a1805c18c1ed7aea75fd5681ccf4eb6a9ad224fe1738bcf01a784b2cf828cdd",
-      "download_count": 563,
+      "download_count": 888,
       "created_at": "2026-11-11T18:25:28Z",
       "updated_at": "2026-11-11T18:25:29Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.4.1/hwaccel.ml.yml"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1679,
       "digest": "sha256:a50d01758fdbd468270ef7104dce6f282e217ef916238098ac94a70ca8e4c326",
-      "download_count": 543,
+      "download_count": 872,
       "created_at": "2026-11-11T18:25:28Z",
       "updated_at": "2026-11-11T18:25:29Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.4.1/hwaccel.transcoding.yml"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 260,
       "digest": "sha256:4e5fe9d3019df2d1cad4c865e87f9037d98e5f0c3bf28cd509f4f86e6829ae93",
-      "download_count": 115,
+      "download_count": 156,
       "created_at": "2026-11-11T18:25:29Z",
       "updated_at": "2026-11-11T18:25:29Z",
       "browser_download_url": "https://github.com/immich-app/immich/releases/download/v3.4.1/prometheus.yml"
@@ -402,13 +402,13 @@
   "body": "This patch release fixes various bugs. Notably, it also fixes the performance issues with shared links. \r\n\r\n## What's Changed\r\n### 🌟 Enhancements\r\n* feat: futo backups 1.16.0 by @nutgood in https://github.com/immich-app/immich/pull/33216\r\n### 🐛 Bug fixes\r\n* fix(server): map .hif to image/heif by @nornewman in https://github.com/immich-app/immich/pull/33167\r\n* fix(server): queue job status query by @jrasm91 in https://github.com/immich-app/immich/pull/33182\r\n* perf(server): shared links cover query by @jrasm91 in https://github.com/immich-app/immich/pull/33179\r\n* fix(web): info panel filename alignment by @Snowknight26 in https://github.com/immich-app/immich/pull/33175\r\n* fix(web): highlight advanced search filters with camera filters set by @Snowknight26 in https://github.com/immich-app/immich/pull/33193\r\n* fix: filename element on detail panel by @danieldietzler in https://github.com/immich-app/immich/pull/33199\r\n* fix: prometheus exporter should listen on all interfaces by @danieldietzler in https://github.com/immich-app/immich/pull/33203\r\n* fix: workflow step fields default values by @danieldietzler in https://github.com/immich-app/immich/pull/33211\r\n\r\n## New Contributors\r\n* @nornewman made their first contribution in https://github.com/immich-app/immich/pull/33167\r\n* @nutgood made their first contribution in https://github.com/immich-app/immich/pull/33216\r\n\r\n**Full Changelog**: https://github.com/immich-app/immich/compare/v3.4.0...v3.4.1\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/immich-app/immich/releases/442062024/reactions",
-    "total_count": 101,
-    "+1": 36,
+    "total_count": 111,
+    "+1": 40,
     "-1": 0,
     "laugh": 3,
-    "hooray": 6,
+    "hooray": 8,
     "confused": 0,
-    "heart": 38,
+    "heart": 42,
     "rocket": 8,
     "eyes": 10
   },
