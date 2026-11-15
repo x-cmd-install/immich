@@ -28,7 +28,7 @@
   srcname: app.alextran.immich
   binname: app.alextran.immich
   visiblename: Immich
-  version: 3.3.6
+  version: 3.4.0
   origversion: null
   status: outdated
   summary: This is a client app for the self-hostable Immich Server
@@ -40,7 +40,7 @@
   srcname: app.alextran.immich
   binname: app.alextran.immich
   visiblename: Immich
-  version: 3.3.5
+  version: 3.3.6
   origversion: null
   status: legacy
   summary: This is a client app for the self-hostable Immich Server
@@ -52,7 +52,7 @@
   srcname: app.alextran.immich
   binname: app.alextran.immich
   visiblename: Immich
-  version: 3.3.3
+  version: 3.3.5
   origversion: null
   status: legacy
   summary: This is a client app for the self-hostable Immich Server
