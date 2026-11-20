@@ -14,15 +14,15 @@ x install immich
 
 ## Code insight
 
-Total: **522,708** lines of code across **2639** files in the top 5 languages.
+Total: **526,053** lines of code across **2665** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 216,422 | 0 | 0 | 167 |
-| TypeScript | 156,272 | 4,343 | 23,003 | 1181 |
-| Dart | 78,881 | 2,855 | 12,914 | 848 |
-| Yaml | 23,428 | 268 | 5,485 | 22 |
-| Svelte | 17,651 | 198 | 1,382 | 421 |
+| Json | 216,426 | 0 | 0 | 167 |
+| TypeScript | 159,541 | 4,373 | 23,811 | 1206 |
+| Dart | 78,915 | 2,856 | 12,920 | 849 |
+| Yaml | 23,447 | 268 | 5,487 | 22 |
+| Svelte | 17,653 | 198 | 1,382 | 421 |
 
 ## Source
 
@@ -38,22 +38,22 @@ Total: **522,708** lines of code across **2639** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 119,600 · **Forks**: 7,653 · **Open issues**: 9,795 · **Contributors**: 2,414
+- **Stars**: 119,699 · **Forks**: 7,661 · **Open issues**: 9,797 · **Contributors**: 2,416
 
 ## Totals (cumulative)
 
-- **Releases**: 327 · **Merged PRs**: 11074 · **Open PRs**: 185 · **Closed issues**: 9305 · **Open issues**: 490 · **Commits**: 11646
+- **Releases**: 327 · **Merged PRs**: 11099 · **Open PRs**: 180 · **Closed issues**: 9313 · **Open issues**: 484 · **Commits**: 11669
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 9 | 361 | 51 | 108 | 65 | 370 |
-| last60d | 2026-09-20 | 16 | 712 | 74 | 299 | 116 | 780 |
-| 90d | 2026-08-21 | 22 | 962 | 94 | 483 | 158 | 1059 |
-| last180d | 2026-05-23 | 31 | 1710 | 153 | 1064 | 252 | 2357 |
-| 360d | 2025-11-24 | 47 | 3109 | 181 | 2162 | 350 | 4768 |
-| last720d | 2024-11-29 | 100 | 5978 | 185 | 5133 | 468 | 5876 |
+| 30d | 2026-10-21 | 8 | 362 | 50 | 111 | 57 | 396 |
+| last60d | 2026-09-21 | 16 | 735 | 71 | 303 | 111 | 806 |
+| 90d | 2026-08-22 | 22 | 986 | 92 | 487 | 151 | 1085 |
+| last180d | 2026-05-24 | 31 | 1731 | 150 | 1067 | 246 | 2383 |
+| 360d | 2025-11-25 | 47 | 3106 | 176 | 2162 | 344 | 4794 |
+| last720d | 2024-11-30 | 100 | 6002 | 180 | 5137 | 462 | 5898 |
 
 ## Release assets
 
@@ -72,10 +72,11 @@ Total: **522,708** lines of code across **2639** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/immich). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **27** distros on [repology.org](https://repology.org/project/immich). **8** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
+| Homebrew | `3.4.2` | ✅ latest |
 | Nix unstable | `3.4.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -87,4 +88,4 @@ Install metadata for immich lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:24:26Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:34:07Z._
