@@ -1,10 +1,14 @@
-- repo: wikidata
-  srcname: Q127016931
-  visiblename: immich
-  version: 3.4.2
+- repo: nix_stable_25_05
+  srcname: immich-cli
+  visiblename: immich-cli
+  version: 2.2.103
   origversion: null
-  status: newest
-  summary: self-hosted photo and video management software
+  status: outdated
+  summary: Self-hosted photo and video backup solution (command line interface)
+  maintainers:
+    - supermanitu@gmail.com
+  licenses:
+    - AGPL-3.0-only
 - repo: aur
   srcname: immich
   binname: immich-server
@@ -206,17 +210,6 @@
   licenses:
     - AGPL-3.0-only
     - CC-BY-4.0
-- repo: nix_stable_25_05
-  srcname: immich-cli
-  visiblename: immich-cli
-  version: 2.2.103
-  origversion: null
-  status: outdated
-  summary: Self-hosted photo and video backup solution (command line interface)
-  maintainers:
-    - supermanitu@gmail.com
-  licenses:
-    - AGPL-3.0-only
 - repo: nix_stable_25_11
   srcname: immich
   visiblename: immich
@@ -302,9 +295,9 @@
 - repo: nix_unstable
   srcname: immich
   visiblename: immich
-  version: 3.4.1
+  version: 3.4.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Self-hosted photo and video backup solution
   maintainers:
     - me@diogotc.com
@@ -318,9 +311,9 @@
 - repo: nix_unstable
   srcname: immich-cli
   visiblename: immich-cli
-  version: 3.4.1
+  version: 3.4.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Self-hosted photo and video backup solution (command line interface)
   maintainers:
     - supermanitu@gmail.com
@@ -329,9 +322,9 @@
 - repo: nix_unstable
   srcname: immich-ml
   visiblename: immich-ml
-  version: 3.4.1
+  version: 3.4.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Self-hosted photo and video backup solution (machine learning component)
   maintainers:
     - me@diogotc.com
@@ -342,3 +335,10 @@
   licenses:
     - AGPL-3.0-only
     - CC-BY-4.0
+- repo: wikidata
+  srcname: Q127016931
+  visiblename: immich
+  version: 3.4.2
+  origversion: null
+  status: newest
+  summary: self-hosted photo and video management software
