@@ -1,14 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: immich-cli
-  visiblename: immich-cli
-  version: 2.2.103
-  origversion: null
-  status: outdated
-  summary: Self-hosted photo and video backup solution (command line interface)
-  maintainers:
-    - supermanitu@gmail.com
-  licenses:
-    - AGPL-3.0-only
 - repo: aur
   srcname: immich
   binname: immich-server
@@ -35,6 +24,21 @@
     - countmurphy@aur
   licenses:
     - AGPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: immich
+  visiblename: immich
+  version: 1.131.3
+  origversion: null
+  status: outdated
+  summary: Self-hosted photo and video backup solution
+  maintainers:
+    - rschuetz17@gmail.com
+    - supermanitu@gmail.com
+    - contact@scrumplex.net
+    - titaniumtown@proton.me
+  licenses:
+    - AGPL-3.0-only
+    - CC-BY-4.0
 - repo: aur
   srcname: immich-machine-learning
   binname: immich-machine-learning
@@ -52,9 +56,9 @@
   srcname: app.alextran.immich
   binname: app.alextran.immich
   visiblename: Immich
-  version: 3.4.1
+  version: 3.4.2
   origversion: null
-  status: outdated
+  status: newest
   summary: This is a client app for the self-hostable Immich Server
   licenses:
     - AGPL-3.0-only
@@ -64,7 +68,7 @@
   srcname: app.alextran.immich
   binname: app.alextran.immich
   visiblename: Immich
-  version: 3.4.0
+  version: 3.4.1
   origversion: null
   status: legacy
   summary: This is a client app for the self-hostable Immich Server
@@ -76,7 +80,7 @@
   srcname: app.alextran.immich
   binname: app.alextran.immich
   visiblename: Immich
-  version: 3.3.6
+  version: 3.4.0
   origversion: null
   status: legacy
   summary: This is a client app for the self-hostable Immich Server
@@ -140,21 +144,6 @@
   licenses:
     - MIT
 - repo: nix_stable_24_11
-  srcname: immich
-  visiblename: immich
-  version: 1.131.3
-  origversion: null
-  status: outdated
-  summary: Self-hosted photo and video backup solution
-  maintainers:
-    - rschuetz17@gmail.com
-    - supermanitu@gmail.com
-    - contact@scrumplex.net
-    - titaniumtown@proton.me
-  licenses:
-    - AGPL-3.0-only
-    - CC-BY-4.0
-- repo: nix_stable_24_11
   srcname: immich-machine-learning
   visiblename: immich-machine-learning
   version: 1.131.3
@@ -210,6 +199,17 @@
   licenses:
     - AGPL-3.0-only
     - CC-BY-4.0
+- repo: nix_stable_25_05
+  srcname: immich-cli
+  visiblename: immich-cli
+  version: 2.2.103
+  origversion: null
+  status: outdated
+  summary: Self-hosted photo and video backup solution (command line interface)
+  maintainers:
+    - supermanitu@gmail.com
+  licenses:
+    - AGPL-3.0-only
 - repo: nix_stable_25_11
   srcname: immich
   visiblename: immich
